@@ -159,6 +159,7 @@ package() {
       "OpenCanopy.efi"
       "OpenHfsPlus.efi"
       "OpenLinuxBoot.efi"
+      "OpenNtfsDxe.efi"
       "OpenPartitionDxe.efi"
       "OpenRuntime.efi"
       "OpenUsbKbDxe.efi"
